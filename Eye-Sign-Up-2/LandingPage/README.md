@@ -4,3 +4,5 @@ To run the repo
 - in terminal
   - npm install
   - npm run dev
+    if import error then run
+  - npm install react-icons
