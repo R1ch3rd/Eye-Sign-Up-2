@@ -8,3 +8,5 @@ To run the repo
 
 - if import error then run
   - npm install react-icons
+
+all contributions by https://github.com/Varalakshmi-Kanagavel
